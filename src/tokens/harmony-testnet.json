@@ -1,0 +1,58 @@
+[
+  {
+    "chainId": 1666700000,
+    "address": "0xa38a89184Ce6F1ed8db85E2B51D9Cb1dcb091B46",
+    "symbol": "WONE",
+    "name": "Wrapped ONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x804B9daD59Fe711A2AA45cC861F2B6Bf9A023BD7",
+    "symbol": "1BUSD",
+    "name": "OneBUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x3dc8cfDf8AB5e5587Adf785813477507E936178D",
+    "symbol": "1USDC",
+    "name": "OneUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x4baCfdB219a7ee83c6e5a9f0933A1a761B25DC92",
+    "symbol": "1USDT",
+    "name": "OneUSDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x50AD4ccC79699e18fdBB2b5AF6D4e0C5e5243FD1",
+    "symbol": "1DAI",
+    "name": "OneDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x65Ab4C9F453673d7de3c32a0B6dF617b40AEd242",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x10d06b226C275444Cf2113ABc49B15D162C864B4",
+    "symbol": "1ETH",
+    "name": "OneETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+  }
+]
